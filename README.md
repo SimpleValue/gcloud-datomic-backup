@@ -1,3 +1,5 @@
+** Deprecated: in favor of https://github.com/SimpleValue/gcloud-datomic-s3-backup **
+
 # gcloud-datomic-backup
 
 A tool that helps to do Datomic backups on Google Cloud.
