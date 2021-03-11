@@ -1,4 +1,4 @@
-** Deprecated: in favor of https://github.com/SimpleValue/gcloud-datomic-s3-backup **
+**Deprecated: in favor of https://github.com/SimpleValue/gcloud-datomic-s3-backup**
 
 # gcloud-datomic-backup
 
